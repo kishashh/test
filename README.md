@@ -4,4 +4,6 @@
 
 Durring class i learned about different infinitys
 
+1_000_000 is legal in java and you can test that in jshell
+
 just testing
