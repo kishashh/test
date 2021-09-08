@@ -26,3 +26,4 @@ just testing
 *dir
 *cd test
 *git status should work
+*test1
