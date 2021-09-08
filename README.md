@@ -15,3 +15,14 @@ Double.MAX_VALUE+1
 Use *Jshell* to experiment with java
 
 just testing
+
+###This time, edits on my computer
+* get code from github
+* change directory to the one from the step above
+* modify text
+* send backto github
+
+*in CMD or PowerShell clone with git clone *link*
+*dir
+*cd test
+*git status should work
